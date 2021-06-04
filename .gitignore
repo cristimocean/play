@@ -1,0 +1,5 @@
+lev1/*
+!lev1/lev2/
+
+lev1/lev2/*
+!lev1/lev2/fileb.txt
